@@ -12,6 +12,7 @@ To generate the private key:
 2. Install in a local folder
 3. Open a command prompt and type the command 
     > openssl genrsa -out jwt.pem -aes256 -passout pass:password 2048
+    
 This generates a .pem file that can be used to sign a simple token and send to the caller. Place that file inside the key folder.
 
 Step :0 Try the following URL in postman. Authorization will be denied
