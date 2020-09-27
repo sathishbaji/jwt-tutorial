@@ -25,3 +25,8 @@ Step: 2 Now try the following url with the header key named "Authorization" and 
 http://localhost:3000/secret
   
 The service will be authorized and response will be sent.
+
+Reference:
+OpenSSL Step By Step Tutorial | How to Generate Keys, Certificates & CSR Using OpenSSL - https://www.youtube.com/watch?v=wzbf9ldvBjM
+Authentication on the Web:  https://www.youtube.com/watch?v=2PPSXonhIck
+OAuth 2.0 and OpenID Connect: https://www.youtube.com/watch?v=996OiexHze0
