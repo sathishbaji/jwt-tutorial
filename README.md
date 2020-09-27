@@ -30,3 +30,4 @@ Reference:
 OpenSSL Step By Step Tutorial | How to Generate Keys, Certificates & CSR Using OpenSSL - https://www.youtube.com/watch?v=wzbf9ldvBjM
 Authentication on the Web:  https://www.youtube.com/watch?v=2PPSXonhIck
 OAuth 2.0 and OpenID Connect: https://www.youtube.com/watch?v=996OiexHze0
+Node.JS REST API Auth using JWTs - Tutorial: https://www.youtube.com/watch?v=0g0Of8jlhN8&list=RDCMUCwFl9Y49sWChrddQTD9QhRA&index=1
